@@ -1,4 +1,7 @@
 
+ # here is the multiple inheritance 
+#  inherit from more than one parent
+#  C(A,B)
 
 class Prey:
     def flee(self):
